@@ -1,2 +1,2 @@
-# boah.github.io
-AutomationScripts
+# Automation Scripts 
+A collection of script I use.
