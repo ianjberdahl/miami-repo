@@ -1,2 +1,5 @@
-# Automation Scripts 
-A collection of script I use.
+# A **Place** where *Code* is ~~Forgotten~~
+
+I'm using this space!!! Go away!!! Unless you have a hallpass :)
+
+Automation Scripts
